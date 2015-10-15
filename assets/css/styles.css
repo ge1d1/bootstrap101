@@ -1,0 +1,32 @@
+body {
+	background: #430600;
+	color: #FAF3BC;
+	font-family:  "Nunito" , sans-serif;
+}
+
+.nav {
+	margin-top: -51px;
+}
+
+.nav li a,
+.nav li a:hover {
+	background: none;
+	color: #FAF3BC;
+	font-size: 1.1em;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family:  "Nunito" , sans-serif;
+}
+
+.cta-button {
+	background: #4FB69F;
+	color: #FAF3BC;
+	padding:  15px 30px;
+	margin: 40px 0;
+	border-radius: 25px;
+	text-transform: uppercase;
+	border: none;
+	font-size: 1.1em;
+
+
+}
